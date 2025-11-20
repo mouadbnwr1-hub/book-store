@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    >
+    <ImageView
+        android:id="@+id/img1"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="15dp"
+        />
+
+    <TextView
+        android:id="@+id/nameBook"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="nameBook : "
+        android:layout_gravity="center"
+        android:textColor=""
+        android:layout_marginBottom="10dp"
+        />
+    <TextView
+        android:id="@+id/writerBook"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="writerBook : "
+        android:layout_gravity="center"
+        android:textColor=""
+        android:layout_marginBottom="10dp"
+        />
+    <TextView
+        android:id="@+id/storyBook"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="storyBook : "
+        android:layout_gravity="center"
+        android:textColor=""
+        android:layout_marginBottom="10dp"
+        />
+
+    <TextView
+        android:id="@+id/nbrPage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="nbrPage : "
+        android:layout_gravity="center"
+        android:textColor=""
+        android:layout_marginBottom="10dp"
+
+        />
+    <TextView
+        android:id="@+id/price"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="price : "
+        android:layout_gravity="center"
+        android:textColor=""
+        android:layout_marginBottom="10dp"
+        />
+
+
+    <Button
+        android:layout_width="349dp"
+        android:layout_height="19dp"
+        android:layout_gravity="center"
+        android:text="valide" />
+</LinearLayout>
