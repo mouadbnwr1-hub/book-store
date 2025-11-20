@@ -1,0 +1,28 @@
+<resources>
+
+    <string name="app_name">Book</string>
+
+
+    <string name="ok">OK</string>
+    <string name="cancel">Annuler</string>
+    <string name="confirm">Confirmer</string>
+    <string name="back">Retour</string>
+    <string name="next">Suivant</string>
+    <string name="save">Enregistrer</string>
+    <string name="delete">Supprimer</string>
+
+
+    <string name="home_title">Accueil</string>
+    <string name="settings_title">Paramètres</string>
+    <string name="profile_title">Profil</string>
+
+
+    <string name="loading">Chargement…</string>
+    <string name="no_data">Aucune donnée</string>
+    <string name="error_try_again">Une erreur s est produite, veuillez réessayer</string>
+
+
+    <string name="search_hint">Rechercher…</string>
+    <string name="username_hint">Nom d utilisateur</string>
+    <string name="password_hint">Mot de passe</string>
+</resources>

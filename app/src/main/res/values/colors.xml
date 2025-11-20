@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="gris_base">#D8D5C9</color>
+
+
+    <color name="off_white">#F7F6F2</color>
+    <color name="light_beige">#EEE9DD</color>
+    <color name="soft_gray">#E5E5E5</color>
+    <color name="light_gold">#F3EEDA</color>
+    <color name="soft_pink">#F7EDEC</color>
+    <color name="pastel_green">#E7F2EB</color>
+
+
+    <color name="dark_gray">#424242</color>
+    <color name="dark_gray2">#303030</color>
+    <color name="dark_surface">#1E1E1E</color>
+
+
+    <color name="on_dark">#FFFFFF</color>
+    <color name="on_light">#212121</color>
+</resources>
+
+
