@@ -10,15 +10,5 @@
     <color name="light_gold">#F3EEDA</color>
     <color name="soft_pink">#F7EDEC</color>
     <color name="pastel_green">#E7F2EB</color>
-
-
-    <color name="dark_gray">#424242</color>
-    <color name="dark_gray2">#303030</color>
-    <color name="dark_surface">#1E1E1E</color>
-
-
-    <color name="on_dark">#FFFFFF</color>
-    <color name="on_light">#212121</color>
 </resources>
-
 
